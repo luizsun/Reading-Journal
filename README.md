@@ -55,19 +55,19 @@ Componente que exibe a **lista de livros cadastrados**.
 
 ## Prints da Aplicação
 ### Página Inicial
-![Página Inicial](./prints-resultados/home.png)
+![Página Inicial](./print-resultados/home.png)
 ### Página Sobre
-![Página Sobre](./prints-resultados/sobre.png)
+![Página Sobre](./print-resultados/sobre.png)
 ### Página de Cadastro
-![Página de Cadastro](./prints-resultados/cadastrar.png)
+![Página de Cadastro](./print-resultados/cadastrar.png)
 ### Página de Cadastro, adicionando livro.
-![Página de Cadastro add livro](./prints-resultados/adicionar.png)
+![Página de Cadastro add livro](./print-resultados/adicionar.png)
 ### Lista de Livros
-![Lista de Livros](./prints-resultados/lista.png)
+![Lista de Livros](./print-resultados/lista.png)
 ### Editar um livro
-![Editar Livro](./prints-resultados/editar.png)
+![Editar Livro](./print-resultados/editar.png)
 ### Excluir um livro
-![Excluir Livro](./prints-resultados/excluir.png)
+![Excluir Livro](./print-resultados/excluir.png)
 
 ## Conclusão
 Este projeto demonstra a implementação de um CRUD básico em React, explorando a componentização e o uso do `react-router-dom`.
