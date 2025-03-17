@@ -54,19 +54,19 @@ Componente que exibe a **lista de livros cadastrados**.
 - A listagem é recebida como `props` do `App.js`.
 
 ## Prints da Aplicação
-Página Inicial
+### Página Inicial
 ![Página Inicial](./prints-resultados/home.png)
-Página Sobre
+### Página Sobre
 ![Página Sobre](./prints-resultados/sobre.png)
-Página de Cadastro
+### Página de Cadastro
 ![Página de Cadastro](./prints-resultados/cadastrar.png)
-Página de Cadastro, adicionando livro.
+### Página de Cadastro, adicionando livro.
 ![Página de Cadastro add livro](./prints-resultados/adicionar.png)
-Lista de Livros
+### Lista de Livros
 ![Lista de Livros](./prints-resultados/lista.png)
-Editar um livro
+### Editar um livro
 ![Editar Livro](./prints-resultados/editar.png)
-Excluir um livro
+### Excluir um livro
 ![Excluir Livro](./prints-resultados/excluir.png)
 
 ## Conclusão
